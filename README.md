@@ -1,4 +1,4 @@
 JavaKata
 ========
 
-Different code kata programmed with Java
+Different code kata programmed with Java. Will start soon.
